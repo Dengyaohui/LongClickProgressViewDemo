@@ -1,0 +1,3 @@
+include ':gpslibrary'
+include ':app'
+rootProject.name = "ViewDemo"
